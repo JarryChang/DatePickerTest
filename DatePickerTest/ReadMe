@@ -1,0 +1,9 @@
+
+Strange Leak with UIDatePicker in iOS [duplicate]
+
+参考链接：
+1. http://stackoverflow.com/questions/12830278/uidatepicker-leaks
+2. http://stackoverflow.com/questions/12830278/uidatepicker-leaks
+
+
+无论使用代码添加DatePicker还是在Xib画，都不可避免在Instruments中产生leaks
